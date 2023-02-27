@@ -26,5 +26,6 @@ THE HTML and CSS done in the gutenburg and homepage directories are license unde
 
 Changes
 =================
-- Within the homepage directory, I added the html and css files to demonstrate the good and ugly pages.
-- Within the gutenburg directory, I had erased some of the in-line css styles from the html files, and add more css in a separate css file named bookstyles.css
+- Within the homepage directory, I added the HTML and CSS files to demonstrate the good and ugly pages.
+- Within the gutenburg directory, I had erased some of the in-line CSS styles from the downloaded project gutenburg HTML files, and add more css in a separate CSS file named bookstyles.css
+- I have added screenshots to demonstrate my pages in the root of this repository.
