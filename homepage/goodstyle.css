@@ -1,0 +1,47 @@
+.sidenav {
+    color: white;
+    height: 100%;
+    /* Full-height: remove this if you want "auto" height */
+    width: 220px;
+    /* Set the width of the sidebar */
+    position: fixed;
+    /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1;
+    /* Stay on top */
+    top: 0;
+    /* Stay at the top */
+    left: 0;
+    background-color: black;
+    /* Black */
+    /* overflow-x: hidden; */
+    /* Disable horizontal scroll */
+    padding-top: 20px;
+}
+.body-content{
+    margin-left: 220px;
+    /* color: blue; */
+}
+
+h1{
+    margin-left: 16px;
+}
+
+h2{
+    margin-left: 32px;
+}
+
+h3{
+    margin-left: 48px;
+}
+
+h4 {
+    margin-left: 64px;
+}
+
+.body-content.li{
+    margin-left: 80px;
+}
+
+img{
+    width: 10%;
+}

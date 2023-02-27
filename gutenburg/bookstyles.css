@@ -1,0 +1,60 @@
+/* change the color to a more pelasing color and using sans-serif */
+body{
+    color: black;
+    background-color: #F2EECB;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
+
+/* Theme paragraphs with CSS */
+p{
+    color: black;
+    font-size: large;
+    text-indent: 2em;
+    margin: 4em 4em;
+}
+
+
+/* Theme header tags with CSS */
+h1, h2, h3{
+    font-size: 40pt;
+    text-align: center;
+}
+h2{
+    font-size: 30pt;
+}
+h3{
+    font-size: 24pt;
+    font-style: italic;
+}
+/* Theme images and images captions with CSS */
+/* center align the picture */
+img {
+    width: 50%;
+    display: block;
+    margin: auto;
+    align-items: center;
+    /* margin-left: 50%;
+    margin-right: 50%; */
+}
+
+table, tr{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+.img-caption{
+    display: block;
+    text-align: center;
+    font-style: italic;
+}
+
+.license{
+    /* background-color: white; */
+    margin: 6em 6em;
+}
+
+
+
+
+
