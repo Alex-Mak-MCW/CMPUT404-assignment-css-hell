@@ -21,4 +21,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+THE HTML and CSS done in the gutenburg and homepage directories are license under the Creative Commons Zero v1.0 Universal license.
 
+
+Changes
+=================
+- Within the homepage directory, I added the html and css files to demonstrate the good and ugly pages.
+- Within the gutenburg directory, I had erased some of the in-line css styles from the html files, and add more css in a separate css file named bookstyles.css
