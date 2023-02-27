@@ -2,7 +2,8 @@
 body{
     color: black;
     background-color: #F2EECB;
-    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    /* font-family: sans-serif, Arial, Helvetica, sans-serif; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 /* Theme paragraphs with CSS */
@@ -13,23 +14,22 @@ p{
     margin: 4em 4em;
 }
 
-
 /* Theme header tags with CSS */
 h1, h2, h3{
-    font-size: 40pt;
+    font-size: 30pt;
     text-align: center;
 }
 h2{
-    font-size: 30pt;
+    font-size: 24pt;
 }
 h3{
-    font-size: 24pt;
+    font-size: 20pt;
     font-style: italic;
 }
 /* Theme images and images captions with CSS */
 /* center align the picture */
 img {
-    width: 50%;
+    width: 20%;
     display: block;
     margin: auto;
     align-items: center;

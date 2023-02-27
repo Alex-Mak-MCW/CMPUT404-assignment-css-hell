@@ -1,8 +1,10 @@
+/* https: //stackoverflow.com/questions/9067892/how-to-align-two-elements-on-the-same-line-without-changing-html */
+
 .sidenav {
     color: white;
     height: 100%;
     /* Full-height: remove this if you want "auto" height */
-    width: 220px;
+    width: 240px;
     /* Set the width of the sidebar */
     position: fixed;
     /* Fixed Sidebar (stay in place on scroll) */
@@ -17,8 +19,14 @@
     /* Disable horizontal scroll */
     padding-top: 20px;
 }
+
+body {
+    color: black;
+    background-color: #F2F2F2;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
 .body-content{
-    margin-left: 220px;
+    margin-left: 240px;
     /* color: blue; */
 }
 
@@ -35,13 +43,34 @@ h3{
 }
 
 h4 {
+    /* text-align: right; */
+    font-style: italic;
     margin-left: 64px;
 }
 
-.body-content.li{
-    margin-left: 80px;
+.body-content li{
+    margin-left: 24px;
 }
 
 img{
-    width: 10%;
+    width: 20%;
+    float: left;
+    margin-right: 2em;
+}
+
+.intro{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: lightblue; */
+}
+
+.intro h1{
+    width: 50%;
+    text-align: center;
+    padding: 2em;
+    margin-top: 32pt;
+}
+
+.items {
+    font-weight: bold;
 }
