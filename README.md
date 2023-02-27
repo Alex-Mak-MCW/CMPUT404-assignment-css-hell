@@ -27,12 +27,12 @@ Source
 =================
 I have used the source below to learn how to align 2 elements horizontally:
 
-Source Title: How to align two elements on the same line without changing HTML
-Source Type: Website (StackOverflow)
-Source author and editor: Taras S.(URL: https://stackoverflow.com/users/9607393/taras-s), Isherwood (URL: [https://stackoverflow.com/users/3509591/zze](https://stackoverflow.com/users/1264804/isherwood))
-Source License: CC BY-SA 4.0
-Latest date contributed: January 12th, 2021
-Resource URI: https://stackoverflow.com/questions/9067892/how-to-align-two-elements-on-the-same-line-without-changing-html
+* Source Title: How to align two elements on the same line without changing HTML
+* Source Type: Website (StackOverflow)
+* Source author and editor: Taras S.(URL: https://stackoverflow.com/users/9607393/taras-s), Isherwood (URL: [https://stackoverflow.com/users/3509591/zze](https://stackoverflow.com/users/1264804/isherwood))
+* Source License: CC BY-SA 4.0
+* Latest date contributed: January 12th, 2021
+* Resource URI: https://stackoverflow.com/questions/9067892/how-to-align-two-elements-on-the-same-line-without-changing-html
 
 Changes
 =================
