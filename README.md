@@ -37,7 +37,7 @@ I have used the source below to learn how to align 2 elements horizontally:
 Changes
 =================
 - Within the homepage directory, I added the HTML and CSS files to demonstrate the good and ugly pages.
-- Within the gutenburg directory, I had erased some of the in-line CSS styles from the downloaded project gutenburg HTML files, and add more css in a separate CSS file named bookstyles.css
+- Within the gutenburg directory, I had erased/commented some of the in-line CSS styles from the downloaded project gutenburg HTML files, and add more css in a separate CSS file named bookstyles.css
 - I have added screenshots to demonstrate my pages in the root of this repository.
 
 License
